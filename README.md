@@ -1,2 +1,2 @@
 # Zillow
-This folder contains data cleaning for the Zillow transaction data for the groundwater stock and agricultural alnd value project
+This folder contains data cleaning procedure for the Zillow transaction data under the groundwater stock and agricultural alnd value project
